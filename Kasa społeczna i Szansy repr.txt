@@ -1,0 +1,36 @@
+SZANSY:
+1.Idż do Bloku B pietro -1 jeśli przejdziesz przez START pobierz 200 ECTS
+2.Idź na autobus 870. Jeśli przejdziesz przez START pobierz 200 ECTS
+3.Zrobiłeś błąd w kalkulacjach podatkowych. Zapłać każdemu graczowi 50 ECTS
+4.Idź do najbliższego środka transportu. Jeśli nie jest zajęty możesz go kupić od banku. Jeśli jest już zajęty rzuć kostką jeszcze raz i zapłać właścicielowi odpowiednią sumę.
+5.Idź do najbliższego środka transportu. Jeśli nie jest zajęty możesz go kupić od banku. Jeśli jest już zajęty rzuć kostką jeszcze raz i zapłać właścicielowi odpowiednią sumę.
+6.Idź do SMCEBI Sport.Jeśli nie jest zajęte możesz ją kupić od banku. Jeśli jest już zajęta rzuć kostką jeszcze raz i zapłać właścicielowi odpowiednią sumę.
+7.Przeprowadź remont generalny wszystkich swoich nieruchomości: Zapłać za każdy komputer 25 ECTS
+Zapłać za każdą pracownie 100 ECTS.
+8.Idź do więzienia. Nie przechodź przez START. Nie pobieraj 200 ECTS
+9.Wyjdź bezpłatnie z więzienia. (Tę kartę możesz zatrzymać do późniejszego wykorzystania lub sprzedaży)
+10.Idź do auli P/0/05. Jeśli przejdziesz przez START pobierz 200 ECTS.
+11.Bank wypłaca Ci dywidwndę. Pobierz 50 ECTS.
+12.Zwrot podatku. Pobierz 150 ECTS.
+13.Przejdź na START. (Pobierz 200 ECTS)
+14.Zapłać grzywne - 15 ECTS.
+15.Cofnij się o trzy pola.
+16. Idź do bloku H pietro 1.
+
+KASY SPOŁECZNE: 
+1.Wymieniasz elektrykę w swoich nieruchomościach. Zapłać: 40 ECTS za każdy komputer,115 ECTS za każdą pracownie.
+2.Zająłeś 2 miejsce w konkursie piękności. Pobierz 50 ECTS
+3.Błąd bankowy na twoim koncie! Pobierz 200 ECTS
+4.Wyjdź bezpłatnie z więzienia. (Tę kartę możesz zatrzymać do późniejszego wykorzystania lub sprzedaży)
+5.Idź do więzienia. Nie przechodź przez START. Nie pobieraj 200 ECTS
+6.Masz urodziny! Pobierz 10 ECTS od każdego gracza.
+7.Fundusz Zdrowotny. Pobierz 100 ECTS
+8.Zapłać za wizytę u dentysty - 100 ECTS	
+9.Zapłać czesne 50 ECTS
+10.Przejdź na START ( Pobierz 200 ECTS )
+11.Wyprzedaż! Pobierz 50 ECTS
+12.Zapłać za wizytę Lekarską - 50 ECTS
+13.Zwrot podatku. Pobierz 20 ECTS
+14.Otrzymujesz 25 ECTS za porady finansowe
+15.Odziedziczyłeś spadek. Pobierz 100 ECTS
+16.Dostałeś premię! Pobierz 100 ECTS
