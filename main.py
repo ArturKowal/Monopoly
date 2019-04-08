@@ -1,4 +1,5 @@
 import pygame
+from player import *
 pygame.init()
 
 from screeninfo import get_monitors
@@ -19,6 +20,10 @@ base_img = pygame.image.load("mapa_z_miejscami_na_pionki.png")
 
 pygame.mixer.music.load("music1.mp3")
 pygame.mixer.music.play()
+
+test_player = PlayerOne(screen)
+
+
 
 done = False
 
@@ -69,4 +74,7 @@ while not done:
 
     screen.fill((0,0,0))
     screen.blit(base_img,(scrolling_width,scrolling_height))
+
+    test_player.show()
+
     pygame.display.flip()
