@@ -12,9 +12,12 @@ class Button:
         self.pressed = False
 
     def show_and_update(self, mouseX, mouseY, mouseClicked):
-        draw.rect(self.screen, self.fill, (self.x, self.y, self.width, self.height), 0)
+        if not self.pressed:
+            draw.rect(self.screen, self.fill, (self.x, self.y, self.width, self.height), 0)
+        else:
+            draw.rect(self.screen, (200,200,200), (self.x, self.y, self.width, self.height), 0)
         draw.rect(self.screen, (0,0,0), (self.x, self.y, self.width, self.height), 1)
-        
+
         if (mouseX > self.x) and (mouseY > self.y) and (mouseX < self.x + self.width) and (mouseY < self.y + self.height) and mouseClicked:
             self.pressed = True
         else:

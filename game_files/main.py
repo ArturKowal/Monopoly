@@ -85,7 +85,10 @@ while not done:
     for i in players:
         i.show(scrolling_width, scrolling_height)
 
-    go.show_and_update(mouse_x,mouse_y,pygame.mouse.get_pressed())
+    if pygame.MOUSEBUTTONDOWN:
+        print('click')
+
+    go.show_and_update(mouse_x, mouse_y, pygame.MOUSEBUTTONDOWN)
 
     if go.pressed:
         done = True
